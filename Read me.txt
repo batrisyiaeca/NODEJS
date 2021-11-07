@@ -1,0 +1,6 @@
+How to run?
+
+1. Open new terminal
+2. write $ npm run devStart / npm run devStart
+3. open website and go to localhost:5000
+4. Feel free to explore the website :)
